@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207244879019",
+    "project_id": "enxcalling",
+    "storage_bucket": "enxcalling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207244879019:android:4418909afc9145703603ee",
+        "android_client_info": {
+          "package_name": "com.enablex.enxcalling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVTVPOsqQ1eyfh-vYOU8UhVeICCUQWIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
