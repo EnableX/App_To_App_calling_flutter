@@ -43,7 +43,7 @@ Note: Ensure that you adhere to the necessary permissions and guidelines for usi
 
 
 > For more information, pls visit our Developer Center
-    https://www.enablex.io/developer/video/solutions/video-ui-kit/flutter-video-ui-kit/
+    https://developer.enablex.io/docs/guides/ui-kit-guide/flutter-ui-kit-guide/index/
 
 ## 1. Get started
 
@@ -77,7 +77,7 @@ An Application Server is required for your iOS App to communicate with EnableX. 
 Note the following:
 •    You need to use App ID and App Key to run this Service.
 •    Your Client EndPoint needs to connect to this Service to create a Virtual Room and Create a Token to join the session.
-•    Application Server is created using [EnableX Server API](https://www.enablex.io/developer/video-api/server-api) while Rest API Service helps in provisioning, session access and post-session reporting.
+•    Application Server is created using [EnableX Server API](https://developer.enablex.io/docs/references/apis/video-api/index/) while Rest API Service helps in provisioning, session access and post-session reporting.
 
 If you would like to test the quality of EnableX video call before setting up your own application server,  you can run the test on our pre-configured environment. Refer to point 2 for more details on this.
 
